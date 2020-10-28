@@ -1,6 +1,6 @@
 package com.marvel.repository;
 
-import com.marvel.model.Character;
+import com.marvel.models.Character;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.mongodb.repository.MongoRepository;

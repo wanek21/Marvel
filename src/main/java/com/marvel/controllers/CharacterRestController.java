@@ -1,10 +1,10 @@
-package com.marvel.rest;
+package com.marvel.controllers;
 
 import com.marvel.exceptions.CharacterExistAlreadyException;
 import com.marvel.exceptions.CharacterNotFoundException;
 import com.marvel.exceptions.FileIsEmptyException;
-import com.marvel.model.Character;
-import com.marvel.model.Comics;
+import com.marvel.models.Character;
+import com.marvel.models.Comics;
 import com.marvel.repository.CharacterRepository;
 import com.marvel.repository.ComicsRepository;
 import io.swagger.annotations.*;

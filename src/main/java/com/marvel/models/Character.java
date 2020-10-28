@@ -1,4 +1,4 @@
-package com.marvel.model;
+package com.marvel.models;
 
 import org.springframework.data.annotation.Id;
 

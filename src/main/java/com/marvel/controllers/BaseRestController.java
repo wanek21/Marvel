@@ -1,7 +1,7 @@
-package com.marvel.rest;
+package com.marvel.controllers;
 
 import com.marvel.exceptions.PageNotFoundException;
-import com.marvel.model.Character;
+import com.marvel.models.Character;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageImpl;
